@@ -1,0 +1,21 @@
+{
+	"/": [
+		"src/routes/+layout.ts",
+		"src/routes/+layout.ts"
+	],
+	"/dictionary": [
+		"src/routes/+layout.ts"
+	],
+	"/grammar": [
+		"src/routes/+layout.ts"
+	],
+	"/grammar/alphabet": [
+		"src/routes/+layout.ts"
+	],
+	"/grammar/sentence": [
+		"src/routes/+layout.ts"
+	],
+	"/write": [
+		"src/routes/+layout.ts"
+	]
+}

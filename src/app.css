@@ -1,0 +1,11 @@
+@import 'tailwindcss';
+
+@font-face{
+    font-family: 'sealang';
+    src: url('/Sealang-Regular.otf') format('opentype');
+}
+
+@font-face {
+    font-family: 'skylang';
+    src: url('/Skylang-Regular.otf') format('opentype');
+}
