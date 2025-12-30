@@ -15,7 +15,7 @@
 	<div class="w-1/2 bg-gray-100 p-4 rounded-lg shadow-lg mt-4">
 		<a href="/grammar/phonetics" class="text-blue-500 hover:text-blue-700">
 			<h2 class="text-2xl">Phonetics</h2>
-			<p>Learn how to pronunce skylang.</p>
+			<p>Learn how to pronounce skylang.</p>
 		</a>
 	</div>
 
