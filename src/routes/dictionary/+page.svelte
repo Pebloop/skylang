@@ -14,6 +14,17 @@
 	});
 
 	function search() {
+		results = dictionary
+				.filter((word) => {
+					if (searchIsSkylang) {
+						return word.skylang.includes(searchText);
+					} else {
+						return word.english.includes(searchText.toLowerCase());
+					}
+				})
+				.map((word) => (searchIsSkylang ? word.skylang : word.english));
+		results = results.sort((a, b) => a.localeCompare(b));
+
 		if (searchText.trim() === '') {
 			result = undefined;
 			return;
@@ -24,16 +35,6 @@
 		} else {
 			result = dictionary.find((word) => word.english === searchText);
 		}
-
-		results = dictionary
-			.filter((word) => {
-				if (searchIsSkylang) {
-					return word.skylang.includes(searchText);
-				} else {
-					return word.english.includes(searchText.toLowerCase());
-				}
-			})
-			.map((word) => (searchIsSkylang ? word.skylang : word.english));
 
 	}
 </script>
@@ -62,9 +63,12 @@
 	<div class="flex flex-col w-full h-full items-center justify-center p-4 mt-4" hidden={result === undefined || result === null}>
 		<div class="w-full bg-gray-50 p-4 rounded-lg shadow-lg mt-2">
 			<div class="flex flex-row items-center mb-2">
-				<h3 class="text-xl font-bold">{result ? result.english : ""} - </h3>
-				<h3 class="text-xl font-bold font-skylang"> {result ? result.skylang : " "}</h3>
+				<a href={result ? "/dictionary/" + result.link : "#"} class="text-blue-500 hover:text-blue-700 mr-4 flex flex-row">
+					<h3 class="text-xl font-bold">{result ? result.english : ""} - </h3>
+					<h3 class="text-xl font-bold font-skylang"> {result ? result.skylang : " "}</h3>
+				</a>
 			</div>
+			<p>[{result ? result.pronunciation : ""}]</p>
 			<p>type : {result ? result.type : ""}</p>
 			<p>meaning : {result ? result.meaning : ""}</p>
 			<p><em>example : {result ? result.example : ""}</em></p>

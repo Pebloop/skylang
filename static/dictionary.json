@@ -4,9 +4,71 @@
       "english": "own",
       "skylang": "E",
       "type": "verb",
-      "meaning": "to own something.",
+      "meaning": "To possess something.",
+      "example": "I own a fruit",
+      "exampleSkylang": "GEI",
+      "pronunciation": "kɑɑk",
+      "link": "own"
+    },
+    {
+        "english": "fruit",
+        "skylang": "I",
+        "type": "noun",
+        "meaning": "The sweet and fleshy product of a tree or other plant that contains seed and can be eaten as food.",
+        "example": "I eat a fruit",
+        "exampleSkylang": "GHI",
+        "pronunciation": "pɑk",
+        "link": "fruit"
+    },
+    {
+      "english": "fly",
+      "skylang": "B",
+      "type": "verb",
+      "meaning": "To move through the air.",
+      "example": "I fly",
+      "exampleSkylang": "GB",
+      "pronunciation": "ɸɔɑz",
+      "link": ""
+    },
+    {
+      "english": "skyland",
+      "skylang": "C",
+      "type": "noun",
+      "meaning": "The country of the dragons of the sky.",
       "example": "",
-      "exampleSkylang": ""
+      "exampleSkylang": "",
+      "pronunciation": "ɸɔɑgβɑtɸɑ",
+      "link": "skyland"
+    },
+    {
+      "english": "drake",
+      "skylang": "A",
+      "type": "noun",
+      "meaning": "wingless dragon",
+      "example": "",
+      "exampleSkylang": "",
+      "pronunciation": "gβɑtɸɑ",
+      "link": "drake"
+    },
+    {
+      "english": "I",
+      "skylang": "G",
+      "type": "noun",
+      "meaning": "me, myself",
+      "example": "I eat a fruit",
+      "exampleSkylang": "GHI",
+      "pronunciation": "kɑtɸɑ",
+      "link": "i"
+    },
+    {
+      "english": "eat",
+      "skylang": "H",
+      "type": "verb",
+      "meaning": "to consume food",
+      "example": "I eat a fruit",
+      "exampleSkylang": "GHI",
+      "pronunciation": "bɔdɔɛ",
+      "link": "eat"
     }
   ]
 }

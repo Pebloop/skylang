@@ -81,7 +81,7 @@
 			<br/>
 
 			<p>
-				"I" (me) : [tɸɑ]
+				"I" (me) : [kɑtɸɑ]
 			</p>
 
 			<br/>
@@ -99,7 +99,7 @@
 			<br/>
 
 			<p>
-				Full sentence "I eat a fruit" : [tɸɑ bɔdɔɛ pɑk]
+				Full sentence "I eat a fruit" : [kɑtɸɑ bɔdɔɛ pɑk]
 			</p>
 
 		</div>
