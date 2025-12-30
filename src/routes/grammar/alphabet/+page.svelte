@@ -65,7 +65,7 @@
 			<br/>
 
 			<p>
-				The sky key and the ground key together means the "country of the sky", fused ith the mouth key
+				The sky key and the ground key together means the "country of the sky", fused with the mouth key
 				it becomes "the language of the country of the sky", and the ground key at the top indicates that it's a noun.
 			</p>
 
