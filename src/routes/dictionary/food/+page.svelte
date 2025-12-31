@@ -25,6 +25,11 @@
             <hr/>
             <p>The pronunciation of <span class="font-skylang">P</span> is [kzɔk].</p>
 
+            <audio controls>
+                <source src="/dictionary/kzok.mp3" type="audio/mpeg">
+                Your browser does not support the audio element.
+            </audio>
+
             <br/>
 
         </div>

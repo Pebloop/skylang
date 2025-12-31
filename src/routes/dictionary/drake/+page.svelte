@@ -26,6 +26,11 @@
             <hr/>
             <p>The pronunciation of <span class="font-skylang">A</span> is [gβɑtɸɑ], a mix of "ground" [gβɑ] and "person" suffix [tɸɑ].</p>
 
+            <audio controls>
+                <source src="/dictionary/gvatfa.mp3" type="audio/mpeg" />
+                Your browser does not support the audio element.
+            </audio>
+
         </div>
     </div>
 </div>

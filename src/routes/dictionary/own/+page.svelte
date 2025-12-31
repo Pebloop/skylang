@@ -26,14 +26,37 @@
             <hr/>
             <p>The pronunciation of <span class="font-skylang">E</span> is [kɑɑk].</p>
 
+            <audio controls>
+                <source src="/dictionary/kaak.mp3" type="audio/mpeg">
+                Your browser does not support the audio element.
+            </audio>
+
             <br/>
             <h3 class="text-2xl">Conjugation</h3>
             <hr/>
             <p>The verb "to own" is conjugated as follows :</p>
             <ul>
-                <li>own (present tense) : <span class="font-skylang">E</span> [kɑɑk]</li>
-                <li>owned (past tense) : <span class="font-skylang">J</span> [kɑɑkɛ]</li>
-                <li>will own (future tense) : <span class="font-skylang">K</span> [kɑɑkɔ]</li>
+                <li>
+                    own (present tense) : <span class="font-skylang">E</span> [kɑɑk]
+                    <audio controls>
+                        <source src="/dictionary/kaak.mp3" type="audio/mpeg">
+                        Your browser does not support the audio element.
+                    </audio>
+                </li>
+                <li>
+                    owned (past tense) : <span class="font-skylang">J</span> [kɑɑkɛ]
+                    <audio controls>
+                        <source src="/dictionary/kaake.mp3" type="audio/mpeg">
+                        Your browser does not support the audio element.
+                    </audio>
+                </li>
+                <li>
+                    will own (future tense) : <span class="font-skylang">K</span> [kɑɑkɔ]
+                    <audio controls>
+                        <source src="/dictionary/kaako.mp3" type="audio/mpeg">
+                        Your browser does not support the audio element.
+                    </audio>
+                </li>
             </ul>
         </div>
     </div>

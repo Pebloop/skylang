@@ -6,28 +6,27 @@
         <a href="/dictionary" class="text-blue-500 hover:text-blue-700">&leftarrow; dictionary</a>
         <div class="w-full bg-gray-100 p-4 rounded-lg shadow-lg mt-4">
 
-            <h2 class="text-3xl">Country</h2>
+            <h2 class="text-3xl">Sky</h2>
             <hr/>
-            <p>A nation or territory</p>
+            <p>the region of the atmosphere and outer space seen from a planet's surface.</p>
             <br>
 
             <h3 class="text-2xl">Composition</h3>
             <hr/>
 
-            <p><span class="font-skylang"></span> is composed of the following keys :</p>
+            <p><span class="font-skylang">T</span> is composed of the following keys :</p>
             <ul>
                 <li><span class="font-skylang">3</span> : noun marker</li>
-                <li><span class="font-skylang">5</span> : build</li>
-                <li><span class="font-skylang">3</span> : ground</li>
+                <li><span class="font-skylang">6</span> : sky</li>
             </ul>
 
             <br/>
             <h3 class="text-2xl">Pronunciation</h3>
             <hr/>
-            <p>The pronunciation of <span class="font-skylang"></span> is [gβɑtɸɑɑ].</p>
+            <p>The pronunciation of <span class="font-skylang">T</span> is [ɸɔɑz].</p>
 
             <audio controls>
-                <source src="/dictionary/gvatfaa.mp3" type="audio/mpeg">
+                <source src="/dictionary/foaz.mp3" type="audio/mpeg">
                 Your browser does not support the audio element.
             </audio>
 

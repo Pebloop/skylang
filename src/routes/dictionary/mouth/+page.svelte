@@ -26,6 +26,11 @@
             <hr/>
             <p>The pronunciation of <span class="font-skylang">Q</span> is [bɔdɔ].</p>
 
+            <audio controls>
+                <source src="/dictionary/bodo.mp3" type="audio/mpeg">
+                Your browser does not support the audio element.
+            </audio>
+
             <br/>
 
         </div>

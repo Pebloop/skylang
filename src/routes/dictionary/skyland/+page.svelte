@@ -26,6 +26,11 @@
             <hr/>
             <p>The pronunciation of <span class="font-skylang">C</span> is [ɸɔɑgβɑtɸɑ], a mix of "sky" [ɸɔɑz] and "country" [gβɑtɸɑ].</p>
 
+            <audio controls>
+                <source src="/dictionary/foazgvatfa.mp3" type="audio/mpeg">
+                Your browser does not support the audio element.
+            </audio>
+
         </div>
     </div>
 </div>

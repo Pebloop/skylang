@@ -26,6 +26,11 @@
             <hr/>
             <p>The pronunciation of <span class="font-skylang">N</span> is [kzɔɔk].</p>
 
+            <audio controls>
+                <source src="/dictionary/kzook.mp3" type="audio/mpeg" />
+                Your browser does not support the audio element.
+            </audio>
+
             <br/>
 
         </div>

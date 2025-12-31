@@ -84,11 +84,21 @@
 				"I" (me) : [kɑtɸɑ]
 			</p>
 
+			<audio controls>
+				<source src="/grammar/sounds/I.mp3" type="audio/mpeg"/>
+				Your browser does not support the audio element.
+			</audio>
+
 			<br/>
 
 			<p>
 				"eat" : [bɔdɔɛ] (the verb root is [bɔdɔ], meaning the mouth)
 			</p>
+
+			<audio controls>
+				<source src="/grammar/sounds/eat.mp3" type="audio/mpeg"/>
+				Your browser does not support the audio element.
+			</audio>
 
 			<br/>
 
@@ -96,11 +106,21 @@
 				"fruit" : [pɑk]
 			</p>
 
+			<audio controls>
+				<source src="/grammar/sounds/fruit.mp3" type="audio/mpeg"/>
+				Your browser does not support the audio element.
+			</audio>
+
 			<br/>
 
 			<p>
 				Full sentence "I eat a fruit" : [kɑtɸɑ bɔdɔɛ pɑk]
 			</p>
+
+			<audio controls>
+				<source src="/grammar/sounds/i_eat_fruit.mp3" type="audio/mpeg"/>
+				Your browser does not support the audio element.
+			</audio>
 
 		</div>
 	</div>

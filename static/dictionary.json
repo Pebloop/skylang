@@ -109,6 +109,16 @@
       "exampleSkylang": "GHP",
       "pronunciation": "kzɔk",
       "link": "food"
+    },
+    {
+      "english": "sky",
+      "skylang": "T",
+      "type": "noun",
+      "meaning": "the region of the atmosphere and outer space seen from a planet's surface",
+      "example": "",
+      "exampleSkylang": "",
+      "pronunciation": "ɸɔɑz",
+      "link": "sky"
     }
   ]
 }

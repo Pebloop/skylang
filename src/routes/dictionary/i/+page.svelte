@@ -27,6 +27,11 @@
             <hr/>
             <p>The pronunciation of <span class="font-skylang">G</span> is [kɑtɸɑ], with the "person" suffix [tɸɑ].</p>
 
+            <audio controls>
+                <source src="/dictionary/katfa.mp3" type="audio/mpeg">
+                Your browser does not support the audio element.
+            </audio>
+
         </div>
     </div>
 </div>

@@ -26,14 +26,36 @@
             <hr/>
             <p>The pronunciation of <span class="font-skylang">H</span> is [bɔdɔɛ], the "mouth" [bɔdɔ] with the [ɛ] to turn it into a verb.</p>
 
+            <audio controls>
+                <source src="/dictionary/bodoe.mp3" type="audio/mpeg">
+                Your browser does not support the audio element.
+            </audio>
+
             <br/>
             <h3 class="text-2xl">Conjugation</h3>
             <hr/>
             <p>The verb "to eat" is conjugated as follows :</p>
-            <ul>
-                <li>eat(present tense) : <span class="font-skylang">H</span> [bɔdɔɛ]</li>
-                <li>ate (past tense) : <span class="font-skylang">L</span> [bɔdɔɛɛ]</li>
-                <li>will eat (future tense) : <span class="font-skylang">M</span> [bɔdɔɛɔ]</li>
+            <ul class="list-disc pl-5">
+                <li>eat (present tense) : <span class="font-skylang">H</span> [bɔdɔɛ]
+                    <audio controls>
+                        <source src="/dictionary/bodoe.mp3" type="audio/mpeg">
+                        Your browser does not support the audio element.
+                    </audio>
+                </li>
+                <li>
+                    ate (past tense) : <span class="font-skylang">L</span> [bɔdɔɛɛ]
+                    <audio controls>
+                        <source src="/dictionary/bodoee.mp3" type="audio/mpeg">
+                        Your browser does not support the audio element.
+                    </audio>
+                </li>
+                <li>
+                    will eat (future tense) : <span class="font-skylang">M</span> [bɔdɔɛɔ]
+                    <audio controls>
+                        <source src="/dictionary/bodoeo.mp3" type="audio/mpeg">
+                        Your browser does not support the audio element.
+                    </audio>
+                </li>
             </ul>
         </div>
     </div>

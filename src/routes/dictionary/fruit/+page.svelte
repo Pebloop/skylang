@@ -26,6 +26,11 @@
             <hr/>
             <p>The pronunciation of <span class="font-skylang">I</span> is [pɑk].</p>
 
+            <audio controls>
+                <source src="/dictionary/pak.mp3" type="audio/mpeg">
+                Your browser does not support the audio element.
+            </audio>
+
             <br/>
 
         </div>

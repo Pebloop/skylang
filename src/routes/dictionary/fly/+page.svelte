@@ -25,14 +25,37 @@
             <hr/>
             <p>The pronunciation of <span class="font-skylang">B</span> is [ɸɔɑzɛ], the "sky" [ɸɔɑz] with the [ɛ] to turn it into a verb.</p>
 
+            <audio controls>
+                <source src="/dictionary/foaze.mp3" type="audio/mpeg">
+                Your browser does not support the audio element.
+            </audio>
+
             <br/>
             <h3 class="text-2xl">Conjugation</h3>
             <hr/>
             <p>The verb "to fly" is conjugated as follows :</p>
             <ul>
-                <li>fly (present tense) : <span class="font-skylang">B</span> [ɸɔɑzɛ]</li>
-                <li>flew (past tense) : <span class="font-skylang">R</span> [ɸɔɑzɛɛ]</li>
-                <li>will fly (future tense) : <span class="font-skylang">S</span> [ɸɔɑzɛɔ]</li>
+                <li>
+                    fly (present tense) : <span class="font-skylang">B</span> [ɸɔɑzɛ]
+                    <audio controls>
+                        <source src="/dictionary/foaze.mp3" type="audio/mpeg">
+                        Your browser does not support the audio element.
+                    </audio>
+                </li>
+                <li>
+                    flew (past tense) : <span class="font-skylang">R</span> [ɸɔɑzɛɛ]
+                    <audio controls>
+                        <source src="/dictionary/foazee.mp3" type="audio/mpeg">
+                        Your browser does not support the audio element.
+                    </audio>
+                </li>
+                <li>
+                    will fly (future tense) : <span class="font-skylang">S</span> [ɸɔɑzɛɔ]
+                    <audio controls>
+                        <source src="/dictionary/foazeo.mp3" type="audio/mpeg">
+                        Your browser does not support the audio element.
+                    </audio>
+                </li>
             </ul>
         </div>
     </div>
