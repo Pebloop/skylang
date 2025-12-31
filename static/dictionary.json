@@ -69,6 +69,46 @@
       "exampleSkylang": "GHI",
       "pronunciation": "bɔdɔɛ",
       "link": "eat"
+    },
+    {
+      "english": "country",
+      "skylang": "O",
+      "type": "noun",
+      "meaning": "a nation or territory",
+      "example": "",
+      "exampleSkylang": "",
+      "pronunciation": "gβɑtɸɑɑ",
+      "link": "country"
+    },
+    {
+      "english": "mouth",
+      "skylang": "Q",
+      "type": "noun",
+      "meaning": "the opening in the face used for eating and speaking",
+      "example": "",
+      "exampleSkylang": "",
+      "pronunciation": "bɔdɔ",
+      "link": "mouth"
+    },
+    {
+      "english": "prey",
+      "skylang": "N",
+      "type": "noun",
+      "meaning": "an animal that is hunted and killed by another for food",
+      "example": "",
+      "exampleSkylang": "",
+      "pronunciation": "kzɔɔk",
+      "link": "prey"
+    },
+    {
+      "english": "food",
+      "skylang": "P",
+      "type": "noun",
+      "meaning": "any nutritious substance that people or animals eat or drink, or that plants absorb, in order to maintain life and growth",
+      "example": "I eat food",
+      "exampleSkylang": "GHP",
+      "pronunciation": "kzɔk",
+      "link": "food"
     }
   ]
 }
