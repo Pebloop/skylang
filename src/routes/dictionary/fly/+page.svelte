@@ -14,7 +14,7 @@
             <h3 class="text-2xl">Composition</h3>
             <hr/>
 
-            <p><span class="font-skylang">H</span> is composed of the following keys :</p>
+            <p><span class="font-skylang">B</span> is composed of the following keys :</p>
             <ul>
                 <li><span class="font-skylang">7</span> : verb / present tense marker</li>
                 <li><span class="font-skylang">6</span> : sky</li>
@@ -23,16 +23,16 @@
             <br/>
             <h3 class="text-2xl">Pronunciation</h3>
             <hr/>
-            <p>The pronunciation of <span class="font-skylang">H</span> is [ɸɔɑzɛ], the "sky" [ɸɔɑz] with the [ɛ] to turn it into a verb.</p>
+            <p>The pronunciation of <span class="font-skylang">B</span> is [ɸɔɑzɛ], the "sky" [ɸɔɑz] with the [ɛ] to turn it into a verb.</p>
 
             <br/>
             <h3 class="text-2xl">Conjugation</h3>
             <hr/>
-            <p>The verb "to eat" is conjugated as follows :</p>
+            <p>The verb "to fly" is conjugated as follows :</p>
             <ul>
-                <li>fly (present tense) : <span class="font-skylang">H</span> [ɸɔɑzɛ]</li>
-                <li>flew (past tense) : <span class="font-skylang">L</span> [ɸɔɑzɛɛ]</li>
-                <li>will fly (future tense) : <span class="font-skylang">M</span> [ɸɔɑzɛɔ]</li>
+                <li>fly (present tense) : <span class="font-skylang">B</span> [ɸɔɑzɛ]</li>
+                <li>flew (past tense) : <span class="font-skylang">R</span> [ɸɔɑzɛɛ]</li>
+                <li>will fly (future tense) : <span class="font-skylang">S</span> [ɸɔɑzɛɔ]</li>
             </ul>
         </div>
     </div>
